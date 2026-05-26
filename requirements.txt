@@ -3,3 +3,4 @@ matplotlib
 healpy
 astropy
 scipy
+numba
